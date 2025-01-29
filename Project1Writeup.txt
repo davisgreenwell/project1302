@@ -4,7 +4,7 @@
 https://github.com/davisgreenwell
 
 3) Github Repo:
-https://github.com/davisgreenwell/DSA302/tree/main/CS302/proj1
+https://github.com/davisgreenwell/project1302/
 
 4) Compile Command:
 g++ -Wall -Wextra -std=c++11 -o lib_info lib_info.cpp
