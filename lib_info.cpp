@@ -86,10 +86,10 @@ int main(int argc, char* argv[])
     //while there are lines to get basically just iterating through file
     while (getline(inputFile, line))
     {
-        istringstream iss(line); 
         //manipulate the input line so we can assign input to variables
-        string title, time, artist, album, genre, trackStr;
+        istringstream iss(line); 
         //variables for data to go into
+        string title, time, artist, album, genre, trackStr;
 
         //makes sure input file is right format/order
         if (!(iss >> title >> time >> artist >> album >> genre >> trackStr)) 
