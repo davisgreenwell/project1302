@@ -1,0 +1,18 @@
+1) Names: Davis Greenwell & N/A
+
+2) Github: davisgreenwell
+https://github.com/davisgreenwell
+
+3) Github Repo:
+https://github.com/davisgreenwell/DSA302/tree/main/CS302/proj1
+
+4) Compile Command:
+g++ -Wall -Wextra -std=c++11 -o lib_info lib_info.cpp
+
+5) In Project 1 I had some communication issues with who I expected to be my partner. I talked with him via text after the first class and thought that we were on a mutual understanding of working on the project together, but I made a false assumption. So I made a ticket on the discord and talked with Dr. Emrich about these issues in Discord and he said it would be fine, for this first project, to do alone. So for the group dynamics I worked on everything alone because I had no group/partner.
+
+Discord Proof:
+"Its fine you you upload as a single person, just make sure to make a canvas comment that I approved this.  Remember this is historically a single person assignment and I made it two since you have less experience collaborating/communicating/etc.  Hopefully the partner process goes better for the next project" - semrich_utk
+
+https://discord.com/channels/1275862548427575346/1333862921331019857
+^ the ticket is closed so this channel may no longer work
